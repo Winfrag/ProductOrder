@@ -1,0 +1,67 @@
+body {
+    background-color: lightskyblue;
+    width: auto;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    min-width: 450px;
+    width: auto !important;
+}
+
+img {
+    max-height: 350px;
+    max-width: 500px;
+    height: auto;
+    width: auto;
+}
+
+
+
+
+ul{
+	
+	list-style-type: none;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 450px;
+	margin: auto;
+	padding-left:0;
+	
+}
+
+li{	
+    text-align:left;
+}
+
+.replyContainer{
+    min-height: 48px;
+    color: red;
+    padding-bottom:24px;
+}
+
+input {
+    min-width:200px;
+
+
+}
+
+select {
+    min-width:200px;
+    min-height:30px;
+
+}
+
+input[type=checkbox] {
+    /* 1.5x Checkboxes */
+    -ms-transform: scale(1.5); /* IE */
+    -moz-transform: scale(1.5); /* FF */
+    -webkit-transform: scale(1.5); /* Safari and Chrome */
+    -o-transform: scale(1.5); /* Opera */
+    padding: 7.5px;
+}
+
+.errorField {
+    font-size: 32px;
+    color: red;
+}

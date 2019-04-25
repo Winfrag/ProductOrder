@@ -1,0 +1,195 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>Product App</title>
+	<link href="favicon.ico" rel="shortcut icon" />
+  <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+
+  <body>
+
+<div id="errorField" class="errorField"> </div>
+
+<div class="inputsFields" id="inputFields">
+<h1>PFL Testing Order Page</h1>
+
+
+<div class="productSelection" id="productSelection">
+<ul>
+<li>
+Products:
+<br>
+<select name="products" id="productSelect">
+</select>
+<br>
+</li>
+<li>
+    <br>
+<div id="imageContainer">
+</div>
+</li>
+</ul>
+</div>
+<br>
+<h2>Contact Information</h2>
+
+<div class="contactContainer" id="contactContainer">
+<ul>
+<li>
+  First name:<br>
+  <input type="text" id="firstName">
+  <br>
+  </li>
+  <li>
+  Last name:<br>
+  <input type="text" id="lastName">
+  <br>
+  </li>
+  <li>
+  Company Name:<br>
+  <input type="text" id="companyName">
+  <br>
+  </li>
+  <li>
+  Address:<br>
+  <input type="text" id="address">
+  <br>
+  </li>
+  <li>
+  Alt Address:<br>
+  <input type="text" id="address2">
+  <br>
+  </li>
+  <li>
+  City:<br>
+  <input type="text" id="city">
+  <br>
+  </li>
+  <li>
+  State:<br>
+  <input type="text" id="state">
+  <br>
+  </li>
+  <li>
+  Postal Code:<br>
+  <input type="text" id="postalCode">
+  <br>
+  </li>
+  <li>
+  Country:<br>
+  <input type="text" id="countryCode">
+  <br>
+  </li>
+  <li>
+  Email:<br>
+  <input type="text" id="email">
+  <br>
+  </li>
+  <li>
+  Phone:<br>
+  <input type="text" id="phone">
+  <br>
+  </li>
+  </ul>
+  </div>
+<br>
+  <h2>Shipping Information</h2>
+  <input type="button" id="contactCopy" value="Use Contact Info">
+  <br>
+  <div class="shippingContainer" id="shippingContainer">
+      <ul>
+          <li>
+              First name:<br>
+              <input type="text" id="firstNameShipping">
+              <br>
+          </li>
+          <li>
+              Last name:<br>
+              <input type="text" id="lastNameShipping">
+              <br>
+          </li>
+          <li>
+              Company Name:<br>
+              <input type="text" id="companyNameShipping">
+              <br>
+          </li>
+          <li>
+              Address:<br>
+              <input type="text" id="addressShipping">
+              <br>
+          </li>
+          <li>
+              Alt Address:<br>
+              <input type="text" id="address2Shipping">
+              <br>
+          </li>
+          <li>
+              City:<br>
+              <input type="text" id="cityShipping">
+              <br>
+          </li>
+          <li>
+              State:<br>
+              <input type="text" id="stateShipping">
+              <br>
+          </li>
+          <li>
+              Postal Code:<br>
+              <input type="text" id="postalCodeShipping">
+              <br>
+          </li>
+          <li>
+              Country:<br>
+              <input type="text" id="countryCodeShipping">
+              <br>
+          </li>
+          <li>
+              Phone:<br>
+              <input type="text" id="phoneShipping">
+              <br>
+          </li>
+          <li>
+              Shipping Method:<br>
+              <select id="shippingMethod"></select>
+              <br>
+          </li>
+          <li>
+              Quantity:<br>
+              <input type="number" min="0" step="5" max="1000000000000000" id="quantity">
+              <br>
+          </li>
+          <li>
+              <div id="fileLinkContainer">
+                  PDF Link:<br>
+                  <input type="text" id="fileLink">
+                  <br>
+              </div>
+          </li>
+          <li>
+              <div id="optionalFileLink" style="text-align:center;">
+                  Include PDF Link:<br>
+              <input type="checkbox" id="fileLinkCheck">
+                  <br>
+              </div>
+          </li>
+
+          <li>
+      </ul>
+</div>
+  
+  <div id="footerContainer" class="footerContainer">
+  <br>
+  <input type="button" id="submitButton" value="Submit">
+  <br>
+  <br>
+<div id="replyContainer" class="replyContainer"></div>
+</div>  
+
+<script src="scripts.js"></script>
+   
+</div>
+  </body>
+</html>
