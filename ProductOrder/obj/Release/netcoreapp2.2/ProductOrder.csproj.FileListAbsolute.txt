@@ -26,3 +26,17 @@ C:\Users\Brendan Burns\Desktop\Fun Little Project\Part 4\ProductOrder\ProductOrd
 C:\Users\Brendan Burns\Desktop\Fun Little Project\Part 4\ProductOrder\ProductOrder\obj\Release\netcoreapp2.2\ProductOrder.RazorTargetAssemblyInfo.cache
 C:\Users\Brendan Burns\Desktop\Fun Little Project\Part 4\ProductOrder\ProductOrder\obj\Release\netcoreapp2.2\ProductOrder.dll
 C:\Users\Brendan Burns\Desktop\Fun Little Project\Part 4\ProductOrder\ProductOrder\obj\Release\netcoreapp2.2\ProductOrder.pdb
+C:\Users\Brendan Burns\Documents\GitHub\ProductOrder\ProductOrder\bin\Release\netcoreapp2.2\ProductOrder.deps.json
+C:\Users\Brendan Burns\Documents\GitHub\ProductOrder\ProductOrder\bin\Release\netcoreapp2.2\ProductOrder.runtimeconfig.json
+C:\Users\Brendan Burns\Documents\GitHub\ProductOrder\ProductOrder\bin\Release\netcoreapp2.2\ProductOrder.runtimeconfig.dev.json
+C:\Users\Brendan Burns\Documents\GitHub\ProductOrder\ProductOrder\bin\Release\netcoreapp2.2\ProductOrder.dll
+C:\Users\Brendan Burns\Documents\GitHub\ProductOrder\ProductOrder\bin\Release\netcoreapp2.2\ProductOrder.pdb
+C:\Users\Brendan Burns\Documents\GitHub\ProductOrder\ProductOrder\obj\Release\netcoreapp2.2\ProductOrder.csprojAssemblyReference.cache
+C:\Users\Brendan Burns\Documents\GitHub\ProductOrder\ProductOrder\obj\Release\netcoreapp2.2\ProductOrder.csproj.CoreCompileInputs.cache
+C:\Users\Brendan Burns\Documents\GitHub\ProductOrder\ProductOrder\obj\Release\netcoreapp2.2\ProductOrder.RazorAssemblyInfo.cache
+C:\Users\Brendan Burns\Documents\GitHub\ProductOrder\ProductOrder\obj\Release\netcoreapp2.2\ProductOrder.RazorAssemblyInfo.cs
+C:\Users\Brendan Burns\Documents\GitHub\ProductOrder\ProductOrder\obj\Release\netcoreapp2.2\ProductOrder.AssemblyInfoInputs.cache
+C:\Users\Brendan Burns\Documents\GitHub\ProductOrder\ProductOrder\obj\Release\netcoreapp2.2\ProductOrder.AssemblyInfo.cs
+C:\Users\Brendan Burns\Documents\GitHub\ProductOrder\ProductOrder\obj\Release\netcoreapp2.2\ProductOrder.RazorTargetAssemblyInfo.cache
+C:\Users\Brendan Burns\Documents\GitHub\ProductOrder\ProductOrder\obj\Release\netcoreapp2.2\ProductOrder.dll
+C:\Users\Brendan Burns\Documents\GitHub\ProductOrder\ProductOrder\obj\Release\netcoreapp2.2\ProductOrder.pdb

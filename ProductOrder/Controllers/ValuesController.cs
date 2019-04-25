@@ -72,8 +72,6 @@ namespace ProductOrder.Controllers
 
             string result = await response.Content.ReadAsStringAsync();
 
-            //Debug.WriteLine("Here is the response");
-            //Debug.WriteLine(result);
             return result;
         }
     }

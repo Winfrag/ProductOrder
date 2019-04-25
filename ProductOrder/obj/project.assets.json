@@ -12106,11 +12106,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Brendan Burns\\Desktop\\Fun Little Project\\Part 4\\ProductOrder\\ProductOrder\\ProductOrder.csproj",
+      "projectUniqueName": "C:\\Users\\Brendan Burns\\Documents\\GitHub\\ProductOrder\\ProductOrder\\ProductOrder.csproj",
       "projectName": "ProductOrder",
-      "projectPath": "C:\\Users\\Brendan Burns\\Desktop\\Fun Little Project\\Part 4\\ProductOrder\\ProductOrder\\ProductOrder.csproj",
+      "projectPath": "C:\\Users\\Brendan Burns\\Documents\\GitHub\\ProductOrder\\ProductOrder\\ProductOrder.csproj",
       "packagesPath": "C:\\Users\\Brendan Burns\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Brendan Burns\\Desktop\\Fun Little Project\\Part 4\\ProductOrder\\ProductOrder\\obj\\",
+      "outputPath": "C:\\Users\\Brendan Burns\\Documents\\GitHub\\ProductOrder\\ProductOrder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
