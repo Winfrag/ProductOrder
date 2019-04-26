@@ -231,9 +231,11 @@ function checkForErrors() {
         errorString += "A valid email address is required. <br />";
     }
 
+
+    console.log(document.getElementById('fileLink').value);
     //If the PDF file is required or enabled by the checkbox, we check for a .pdf extension.
     if (!checkForPDF(document.getElementById('fileLink')) && document.getElementById("fileLinkCheck").checked == true) {
-        errorString += "The given url isn't a .pdf file. <br />";
+        errorString += "The given file isn't a .pdf file. <br />";
     }
 
 
